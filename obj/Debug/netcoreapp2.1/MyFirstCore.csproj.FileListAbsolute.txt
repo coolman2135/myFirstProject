@@ -1,0 +1,14 @@
+C:\Users\chaichen\MyFirstCore\bin\Debug\netcoreapp2.1\MyFirstCore.deps.json
+C:\Users\chaichen\MyFirstCore\bin\Debug\netcoreapp2.1\MyFirstCore.runtimeconfig.json
+C:\Users\chaichen\MyFirstCore\bin\Debug\netcoreapp2.1\MyFirstCore.runtimeconfig.dev.json
+C:\Users\chaichen\MyFirstCore\bin\Debug\netcoreapp2.1\MyFirstCore.dll
+C:\Users\chaichen\MyFirstCore\bin\Debug\netcoreapp2.1\MyFirstCore.pdb
+C:\Users\chaichen\MyFirstCore\obj\Debug\netcoreapp2.1\MyFirstCore.csprojAssemblyReference.cache
+C:\Users\chaichen\MyFirstCore\obj\Debug\netcoreapp2.1\MyFirstCore.csproj.CoreCompileInputs.cache
+C:\Users\chaichen\MyFirstCore\obj\Debug\netcoreapp2.1\MyFirstCore.RazorAssemblyInfo.cache
+C:\Users\chaichen\MyFirstCore\obj\Debug\netcoreapp2.1\MyFirstCore.RazorAssemblyInfo.cs
+C:\Users\chaichen\MyFirstCore\obj\Debug\netcoreapp2.1\MyFirstCore.AssemblyInfoInputs.cache
+C:\Users\chaichen\MyFirstCore\obj\Debug\netcoreapp2.1\MyFirstCore.AssemblyInfo.cs
+C:\Users\chaichen\MyFirstCore\obj\Debug\netcoreapp2.1\MyFirstCore.RazorTargetAssemblyInfo.cache
+C:\Users\chaichen\MyFirstCore\obj\Debug\netcoreapp2.1\MyFirstCore.dll
+C:\Users\chaichen\MyFirstCore\obj\Debug\netcoreapp2.1\MyFirstCore.pdb
