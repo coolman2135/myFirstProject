@@ -1,0 +1,19 @@
+apiVersion : apps/v1
+kind: Deployment
+metadata:
+  name: firstdonetcore 
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: firstdonetcore
+  template:
+    metadata:
+      labels:
+        app: firstdonetcore 
+    spec:
+      containers:
+        - name: firstdonetcore 
+          image: containerregistrycr02.azurecr.io/firstdonetcore
+          ports:
+          - containerPort: 8080
